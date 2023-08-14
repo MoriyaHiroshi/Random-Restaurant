@@ -1,5 +1,3 @@
-/*list = ["Apple", "Orange", "Banana", "Kiwi"]
-console.log(list[Math.floor(Math.random() * list.length)])*/
 
 const prompt = require("prompt-sync")({sigint:true});
 
